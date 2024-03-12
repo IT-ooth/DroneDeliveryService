@@ -1,4 +1,9 @@
 ﻿  app.cpp
-  Vector.cpp
+  Datatype.cpp
+C:\programming\project\DroneDeliveryService\DroneDeliveryService\DroneDeliveryService\Project1\Datatype.cpp(5,1): error C2011: 'Direction': 'enum' 형식 재정의
+  C:\programming\project\DroneDeliveryService\DroneDeliveryService\DroneDeliveryService\Project1\Datatype.h(2,12):
+  'Direction' 선언을 참조하십시오.
+  
+  Drone.cpp
+  Map.cpp
   코드를 생성하고 있습니다...
-  Project1.vcxproj -> C:\programming\project\DroneDeliveryService\DroneDeliveryService\DroneDeliveryService\x64\Debug\Project1.exe

@@ -7,3 +7,10 @@ vector::vector(double x, double y) :
 vector vector::operator +(const vector& v) {
     return vector(x + v.x, y + v.y);
 }
+
+vector vector::operator -(const vector& v) {
+    return vector(x - v.x, y - v.y);
+}
+
+
+

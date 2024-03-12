@@ -11,7 +11,7 @@ private:
 public:
 	vector(double x, double y);
 	vector operator + (const vector& v);
-
+	vector operator - (const vector& v);
 };
 
 
