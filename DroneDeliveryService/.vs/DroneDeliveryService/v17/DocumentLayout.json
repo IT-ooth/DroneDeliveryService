@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Datatype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Datatype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Drone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Drone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FC96B12-A8C0-4073-B707-ABE3A345FE3C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Drone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,116 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Datatype.cpp",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Datatype.cpp",
-              "RelativeDocumentMoniker": "Project1\\Datatype.cpp",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Datatype.cpp",
-              "RelativeToolTip": "Project1\\Datatype.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-12T04:32:24.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Datatype.h",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Datatype.h",
-              "RelativeDocumentMoniker": "Project1\\Datatype.h",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Datatype.h",
-              "RelativeToolTip": "Project1\\Datatype.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-12T04:29:49.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Map.cpp",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.cpp",
-              "RelativeDocumentMoniker": "Project1\\Map.cpp",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.cpp",
-              "RelativeToolTip": "Project1\\Map.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-12T03:46:16.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Drone.cpp",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.cpp",
-              "RelativeDocumentMoniker": "Project1\\Drone.cpp",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.cpp",
-              "RelativeToolTip": "Project1\\Drone.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-12T03:40:11.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Drone.h",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.h",
-              "RelativeDocumentMoniker": "Project1\\Drone.h",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.h",
-              "RelativeToolTip": "Project1\\Drone.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-12T03:39:55.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Vector.cpp",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Vector.cpp",
-              "RelativeDocumentMoniker": "Project1\\Vector.cpp",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Vector.cpp",
-              "RelativeToolTip": "Project1\\Vector.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T12:38:02.685Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "app.cpp",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\app.cpp",
-              "RelativeDocumentMoniker": "Project1\\app.cpp",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\app.cpp",
-              "RelativeToolTip": "Project1\\app.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T12:45:40.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Vector.h",
-              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Vector.h",
-              "RelativeDocumentMoniker": "Project1\\Vector.h",
-              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Vector.h",
-              "RelativeToolTip": "Project1\\Vector.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-11T12:49:31.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Map.h",
               "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.h",
               "RelativeDocumentMoniker": "Project1\\Map.h",
               "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.h",
               "RelativeToolTip": "Project1\\Map.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-12T03:43:24.575Z"
+              "WhenOpened": "2024-03-12T12:47:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\app.cpp",
+              "RelativeDocumentMoniker": "Project1\\app.cpp",
+              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\app.cpp",
+              "RelativeToolTip": "Project1\\app.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T12:08:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.cpp",
+              "RelativeDocumentMoniker": "Project1\\Map.cpp",
+              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Map.cpp",
+              "RelativeToolTip": "Project1\\Map.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T03:46:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drone.cpp",
+              "DocumentMoniker": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.cpp",
+              "RelativeDocumentMoniker": "Project1\\Drone.cpp",
+              "ToolTip": "C:\\programming\\project\\DroneDeliveryService\\DroneDeliveryService\\DroneDeliveryService\\Project1\\Drone.cpp",
+              "RelativeToolTip": "Project1\\Drone.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T12:36:22.672Z",
+              "EditorCaption": ""
             }
           ]
         }

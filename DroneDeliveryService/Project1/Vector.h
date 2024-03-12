@@ -4,14 +4,14 @@
 #include <iostream>
 
 
-class vector {
+class Vector {
 private:
 	double x, y;
 
 public:
-	vector(double x, double y);
-	vector operator + (const vector& v);
-	vector operator - (const vector& v);
+	Vector(double x, double y);
+	Vector operator + (const Vector& v);
+	Vector operator - (const Vector& v);
 };
 
 

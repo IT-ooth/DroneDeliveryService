@@ -1,15 +1,15 @@
 #include "Vector.h"
 #include <iostream>
 
-vector::vector(double x, double y) :
+Vector::Vector(double x, double y) :
     x(x), y(y) {}
 
-vector vector::operator +(const vector& v) {
-    return vector(x + v.x, y + v.y);
+Vector Vector::operator +(const Vector& v) {
+    return Vector(x + v.x, y + v.y);
 }
 
-vector vector::operator -(const vector& v) {
-    return vector(x - v.x, y - v.y);
+Vector Vector::operator -(const Vector& v) {
+    return Vector(x - v.x, y - v.y);
 }
 
 
